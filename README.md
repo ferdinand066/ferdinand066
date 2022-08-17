@@ -6,7 +6,9 @@
 
 ### Github Statistic
 
+<p align="left">
 <a href="https://github.com/ferdinand066">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdinand066&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinand066&layout=compact&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferdinand066&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinand066&layout=compact&theme=cobalt" />
 </a>
+</p>
