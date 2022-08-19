@@ -2,7 +2,7 @@
 
 🔭 I’m currently working at Bina Nusantara University as **Database Administrator**.\
 🌱 I’m currently learning *Back-End and Front-End Development*.\
-📫 How to reach me: [LinkedIn]<a href="https://www.linkedin.com/in/ferdinand-gunawan-08aa44192/" target="_blank">LinkedIn</a> or [Email](mailto:ferdinandg066@gmail.com)
+📫 How to reach me: <a href="https://www.linkedin.com/in/ferdinand-gunawan-08aa44192/" target="_blank">LinkedIn</a> or [Email](mailto:ferdinandg066@gmail.com)
 
 ### Github Statistic
 
