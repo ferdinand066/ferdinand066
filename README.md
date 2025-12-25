@@ -1,14 +1,65 @@
-### Hi there 👋 I'm Ferdinand
+# Hi 👋, I'm Ferdinand Gunawan
 
-<!-- 🔭 I’m currently working at Bina Nusantara University as **Database Administrator**.\ -->
-🌱 I’m currently learning *Back-End and Front-End Development*.\
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ferdinand-gunawan-08aa44192/?target=_blank) or [Email](mailto:ferdinandg066@gmail.com)
+🚀 Software Engineer | Backend & Frontend  
+💻 Go • TypeScript • React • PostgreSQL  
+🌏 Based in Indonesia (UTC+7)
 
-### Github Statistic
+---
 
-<p align="left">
-<a href="https://github.com/ferdinand066">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferdinand066&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinand066&layout=compact&theme=cobalt" />
-</a>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+- Go
+- TypeScript
+- JavaScript
+- SQL
+
+**Frameworks & Tools**
+- React
+- Tailwind CSS
+- gRPC
+- PostgreSQL
+- Docker
+- Electron
+
+---
+
+## 🏗️ Current Focus
+
+- Building **offline-first POS systems**
+- Designing **scalable backend architectures**
+- Improving **real-time systems with WebSocket / gRPC**
+- Writing clean, maintainable code
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Email: your.email@example.com
+
+---
+
+⭐️ _If you like my work, feel free to star my repositories!_
