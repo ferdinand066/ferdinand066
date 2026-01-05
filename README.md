@@ -56,9 +56,9 @@
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your.email@example.com
+- GitHub: https://github.com/ferdinand066
+- LinkedIn: https://www.linkedin.com/in/ferdinand-gunawan-08aa44192/
+- Email: ferdinandg066@gmail.com
 
 ---
 
