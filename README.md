@@ -1,65 +1,11 @@
-# Hi 👋, I'm Ferdinand Gunawan
-
-🚀 Software Engineer | Backend & Frontend  
-💻 Go • TypeScript • React • PostgreSQL  
-🌏 Based in Indonesia (UTC+7)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdinand066&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdinand066&theme=tokyonight&hide_border=true" height="165"/>
+<h1 align="center">Hi 👋, I'm Ferdinand Gunawan</h1>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ferdinand-gunawan-08aa44192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdinand-gunawan-08aa44192" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinand066&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Tech Stack
-
-**Languages**
-- Go
-- TypeScript
-- JavaScript
-- SQL
-
-**Frameworks & Tools**
-- React
-- Tailwind CSS
-- gRPC
-- PostgreSQL
-- Docker
-- Electron
-
----
-
-## 🏗️ Current Focus
-
-- Building **offline-first POS systems**
-- Designing **scalable backend architectures**
-- Improving **real-time systems with WebSocket / gRPC**
-- Writing clean, maintainable code
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdinand066&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/ferdinand066
-- LinkedIn: https://www.linkedin.com/in/ferdinand-gunawan-08aa44192/
-- Email: ferdinandg066@gmail.com
-
----
-
-⭐️ _If you like my work, feel free to star my repositories!_
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdinand066&show_icons=true&locale=en&layout=compact" alt="ferdinand066" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdinand066&show_icons=true&locale=en" alt="ferdinand066" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdinand066&" alt="ferdinand066" /></p>
